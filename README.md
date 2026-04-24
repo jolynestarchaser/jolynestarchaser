@@ -19,3 +19,9 @@ I'm a Developer with 4 years of professional graphic design experience, recently
 - **LinkedIn:** [linkedin.com/in/jolynestarchaseronline](https://linkedin.com/in/jolynestarchaseronline)
 - **Email:** mrkaokungkub@gmail.com
 - **Portfolio:** [Starchaser.vercel.com](https://Starchaser.vercel.com)
+
+### My Tech Skills
+[![My Tech Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,mongodb,)](https://skillicons.dev)
+
+### My Creative Skills
+[![My Creative Skills](https://skillicons.dev/icons?i=ai,ps,figma)](https://skillicons.dev)
