@@ -18,7 +18,7 @@ I'm a Developer with 4 years of professional graphic design experience, recently
 ### 📫 Let's Connect!
 - **LinkedIn:** [linkedin.com/in/jolynestarchaseronline](https://linkedin.com/in/jolynestarchaseronline)
 - **Email:** mrkaokungkub@gmail.com
-- **Creative Playground** [https://www.instagram.com/starchaser.playground/] (https://www.instagram.com/starchaser.playground/)
+- **Creative Playground** : https://www.instagram.com/starchaser.playground/
 
 ### My Tech Skills
 [![My Tech Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,mongodb,)](https://skillicons.dev)
